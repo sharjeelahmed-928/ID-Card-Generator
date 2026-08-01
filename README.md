@@ -65,24 +65,6 @@ Generate beautiful, high-quality, print-ready ID cards with **Live Preview**, **
 
 ---
 
-# 📸 Application Preview
-
-> Add screenshots here.
-
-```
-screenshots/
-│── home.png
-│── preview.png
-│── export.png
-```
-
-Example:
-
-```markdown
-![Home](screenshots/home.png)
-```
-
----
 
 # 📂 Project Structure
 
