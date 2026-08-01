@@ -18,7 +18,7 @@ Generate beautiful, high-quality, print-ready ID cards with **Live Preview**, **
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=for-the-badge)](https://github.com/sharjeelahmed-928)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sharjeel-ahmed-3ba220368)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@YOUR_CHANNEL)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@SharjeelAhmed928)
 
 </div>
 
