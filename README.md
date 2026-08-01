@@ -1,44 +1,41 @@
-````md
-<div align="center">
-
 # 🪪 Premium ID Card Generator
 
 ### Create Professional, Secure & Print-Ready ID Cards with Ease
 
 A modern desktop application built with **Python** and **CustomTkinter** that enables institutions, schools, universities, companies, and organizations to design, preview, export, print, and manage professional ID cards effortlessly.
 
-<p>
 
-<img src="https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/CustomTkinter-Modern%20GUI-00C853?style=for-the-badge">
-<img src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-Supported-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/PDF-Export-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/License-MIT-success?style=for-the-badge">
 
-</p>
+![](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/CustomTkinter-Modern%20GUI-00C853?style=for-the-badge)
+![](https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/MySQL-Supported-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/PDF-Export-red?style=for-the-badge)
+![](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)
 
-<p>
 
-<a href="YOUR_GITHUB_LINK">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
-</a>
 
-<a href="YOUR_YOUTUBE_DEMO_LINK">
-<img src="https://img.shields.io/badge/Watch-Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
 
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-Sharjeel_Ahmed-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
 
-</p>
+
+![](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)
+
+
+
+![](https://img.shields.io/badge/Watch-Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+
+
+
+![](https://img.shields.io/badge/LinkedIn-Sharjeel_Ahmed-0A66C2?style=for-the-badge&logo=linkedin)
+
+
+
 
 ---
 
 ### ⭐ If you find this project useful, don't forget to give it a Star!
 
-</div>
+
 
 ---
 
@@ -181,13 +178,10 @@ Simply place your images inside:
 
 ```text
 assets/templates/
-````
 
 They will automatically appear inside the application.
 
----
-
-## ⚡ Real-Time Live Preview
+⚡ Real-Time Live Preview
 
 Every modification updates instantly.
 
@@ -197,117 +191,110 @@ No reload.
 
 No waiting.
 
----
-
-## 🔢 Automatic ID Generation
+🔢 Automatic ID Generation
 
 Automatically generates professional IDs such as:
 
-```text
 GIT-0001
 GIT-0002
 GIT-0003
-```
 
 You can also manually edit the generated value whenever needed.
 
----
-
-## 🔳 QR Code Generation
+🔳 QR Code Generation
 
 Every card includes a QR Code containing:
 
-* Name
-* ID Number
-* Department
-* Phone Number
+Name
+
+ID Number
+
+Department
+
+Phone Number
 
 Perfect for instant verification using any smartphone.
 
----
-
-## 📦 Barcode Generation
+📦 Barcode Generation
 
 Professional Code128 barcode generated directly from the ID number.
 
 Suitable for attendance systems and inventory tracking.
 
----
-
-## 🖼 High Resolution Export
+🖼 High Resolution Export
 
 Generate professional:
 
-* PNG (300 DPI)
-* Print Ready
-* High Quality
+PNG (300 DPI)
 
----
+Print Ready
 
-## 📄 PDF Export
+High Quality
+
+📄 PDF Export
 
 Export your ID card as a professionally centered A4 PDF complete with cut guides for commercial printing.
 
----
-
-## 🖨 Direct Printing
+🖨 Direct Printing
 
 Print directly to your default printer without leaving the application.
 
 Supports:
 
-* Windows
-* Linux
-* macOS
+Windows
 
----
+Linux
 
-## 💾 Database Integration
+macOS
+
+💾 Database Integration
 
 Store all records permanently.
 
 Supported Databases:
 
-* SQLite (Default)
-* MySQL (Optional)
+SQLite (Default)
+
+MySQL (Optional)
 
 Manage records with:
 
-* Save
-* Browse
-* Reload
-* Delete
+Save
 
----
+Browse
 
-# 🖼 Screenshots
+Reload
 
-> **Coming Soon**
+Delete
+
+🖼 Screenshots
+
+Coming Soon
 
 Replace this section with screenshots of:
 
-* 🏠 Main Window
-* ⚡ Live Preview
-* 🎨 Background Templates
-* 💾 Database Viewer
-* 📄 PDF Export
-* 🖨 Printing
+🏠 Main Window
+
+⚡ Live Preview
+
+🎨 Background Templates
+
+💾 Database Viewer
+
+📄 PDF Export
+
+🖨 Printing
 
 Example:
 
-```md
-<p align="center">
 
-<img src="screenshots/main.png" width="900">
 
-</p>
-```
+![](screenshots/main.png)
 
----
 
-# ⚡ Live Preview Workflow
 
-```text
+⚡ Live Preview Workflow
+
 Enter Information
         │
         ▼
@@ -327,47 +314,73 @@ Export PNG / PDF
         │
         ▼
  Print or Save to Database
-```
 
----
-
-# 🎯 Perfect For
+🎯 Perfect For
 
 This project is suitable for:
 
-* 🏫 Schools
-* 🎓 Universities
-* 🏢 Companies
-* 🏥 Hospitals
-* 🏛 Government Offices
-* 👮 Security Agencies
-* 🏭 Industries
-* 🏢 Corporate Organizations
-* 🧑‍💼 Human Resource Departments
-* 📚 Training Institutes
+🏫 Schools
 
----
+🎓 Universities
 
-# 🛠 Technology Stack
+🏢 Companies
 
-| Technology     | Purpose                    |
-| -------------- | -------------------------- |
-| Python         | Core Programming Language  |
-| CustomTkinter  | Modern Desktop GUI         |
-| Pillow (PIL)   | Image Processing           |
-| SQLite         | Local Database             |
-| MySQL          | Optional Database Backend  |
-| ReportLab      | PDF Export                 |
-| qrcode         | QR Code Generation         |
-| python-barcode | Code128 Barcode Generation |
+🏥 Hospitals
 
----
+🏛 Government Offices
 
-> 📌 **Next:** Installation, project structure, usage guide, configuration, database setup, customization, and export options.
+👮 Security Agencies
 
-```
-```
-````md
+🏭 Industries
+
+🏢 Corporate Organizations
+
+🧑‍💼 Human Resource Departments
+
+📚 Training Institutes
+
+🛠 Technology Stack
+
+Technology
+
+Purpose
+
+Python
+
+Core Programming Language
+
+CustomTkinter
+
+Modern Desktop GUI
+
+Pillow (PIL)
+
+Image Processing
+
+SQLite
+
+Local Database
+
+MySQL
+
+Optional Database Backend
+
+ReportLab
+
+PDF Export
+
+qrcode
+
+QR Code Generation
+
+python-barcode
+
+Code128 Barcode Generation
+
+📌 Next: Installation, project structure, usage guide, configuration, database setup, customization, and export options.
+
+
+
 ---
 
 # 📂 Project Structure
@@ -849,8 +862,8 @@ The following features are planned for future releases.
 
 # ❓ Frequently Asked Questions
 
-<details>
-<summary><strong>Which operating systems are supported?</strong></summary>
+
+### Which operating systems are supported?
 
 The application works on:
 
@@ -858,19 +871,19 @@ The application works on:
 - Linux
 - macOS
 
-</details>
 
-<details>
-<summary><strong>Which database does the application use?</strong></summary>
+
+
+### Which database does the application use?
 
 SQLite is the default database.
 
 You can also switch to MySQL by setting the appropriate environment variables.
 
-</details>
 
-<details>
-<summary><strong>Can I add my own background templates?</strong></summary>
+
+
+### Can I add my own background templates?
 
 Yes.
 
@@ -882,10 +895,10 @@ assets/templates/
 
 They will automatically appear in the application.
 
-</details>
 
-<details>
-<summary><strong>Can I customize the card design?</strong></summary>
+
+
+### Can I customize the card design?
 
 Absolutely.
 
@@ -901,16 +914,16 @@ The rendering engine is modular, allowing you to change:
 - Footer
 - Header
 
-</details>
 
-<details>
-<summary><strong>Can I print directly from the application?</strong></summary>
+
+
+### Can I print directly from the application?
 
 Yes.
 
 The application supports native printing on Windows, Linux, and macOS.
 
-</details>
+
 
 ---
 
@@ -1054,31 +1067,31 @@ You are free to use, modify, and distribute it in accordance with the license te
 
 # 👨‍💻 Author
 
-<div align="center">
+
 
 ## Sharjeel Ahmed
 
 ### Software Developer • AI Enthusiast • Full-Stack Developer
 
-<p>
 
-<a href="https://github.com/sharjeelahmed-928">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
 
-<a href="www.linkedin.com/in/sharjeel-ahmed-3ba220368">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
 
-<a href="https://www.youtube.com/@SharjeelAhmed928">
-<img src="https://img.shields.io/badge/YouTube-Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
+![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-</p>
+
+
+![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
+
+![](https://img.shields.io/badge/YouTube-Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+
+
+
 
 *Passionate about building modern software, AI-powered applications, and elegant user experiences.*
 
-</div>
+
 
 ---
 
@@ -1090,7 +1103,7 @@ It helps more developers discover the project and encourages future improvements
 
 ---
 
-<div align="center">
+
 
 # 🪪 Premium ID Card Generator
 
@@ -1099,7 +1112,4 @@ It helps more developers discover the project and encourages future improvements
 **Create Beautiful, Professional, and Print-Ready ID Cards in Minutes.**
 
 ⭐ **Don't forget to Star the Repository!** ⭐
-
-</div>
-````
 
